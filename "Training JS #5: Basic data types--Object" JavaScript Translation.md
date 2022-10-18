@@ -3,7 +3,8 @@
 
 ### Task
 
->Give you a function ```animal```, accept 1 parameter:```obj``` like this:
+>
+Give you a function ```animal```, accept 1 parameter:```obj``` like this:
 
 ```
 {name:"dog",legs:4,color:"white"}
